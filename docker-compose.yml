@@ -8,3 +8,4 @@ services:
   redis:
     container_name: redis-backend
     image: "redis:alpine"
+    
