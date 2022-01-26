@@ -1,4 +1,6 @@
 # docker-compose-actions-workflow
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7580df85-a732-4479-9baf-69d53914f2cf.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/docker-compose-actions-workflow?orgId=666444378491)  
 <!-- [![Actions Status](https://github.com/peter-evans/docker-compose-actions-workflow/workflows/docker-compose-actions-workflow/badge.svg)](https://github.com/peter-evans/docker-compose-actions-workflow/actions) -->
 
 [![docker-compose-actions-workflow](https://github.com/ayoinc/docker-compose-actions-workflow/actions/workflows/push.yml/badge.svg)](https://github.com/ayoinc/docker-compose-actions-workflow/actions/workflows/push.yml)
